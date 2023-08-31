@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ru.geekbrains.Java_Core_HW_1.regular"},{"l":"ru.geekbrains.Java_Core_HW_1.sample"}];updateSearchResults();
